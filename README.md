@@ -1,4 +1,4 @@
-#BOLTU-SHOP
+# BOLTU-SHOP
 This was my first project.
 
 ### Project Overview
